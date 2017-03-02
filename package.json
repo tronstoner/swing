@@ -40,7 +40,7 @@
   "name": "swing",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gajus/swing"
+    "url": "https://github.com/tronstoner/swing.git"
   },
   "scripts": {
     "build": "babel ./src --out-dir ./dist --copy-files",
